@@ -1,0 +1,1 @@
+This Python script generates a random password based on user preferences. It prompts the user to specify the desired length of the password and then creates a secure password by combining lowercase letters, uppercase letters, digits, and special symbols.
