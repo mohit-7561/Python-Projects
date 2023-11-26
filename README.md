@@ -1,2 +1,2 @@
 # Python-Projects
-Welcome to the Currency Converter project! This simple and user-friendly tool allows you to convert between different currencies effortlessly. Whether you're a traveler, a business owner, or just curious about exchange rates, this application is designed to meet your currency conversion needs.
+This repository showcases a collection of projects that I have worked on to practice and enhance my programming skills. Each project represents an opportunity for learning and experimentation with various concepts, technologies, and problem-solving approaches.
