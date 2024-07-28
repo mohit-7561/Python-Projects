@@ -1,0 +1,1 @@
+This Python script enhances the security of passwords by replacing certain characters with more secure alternatives. It utilizes a predefined set of character substitutions to create stronger and more complex passwords.

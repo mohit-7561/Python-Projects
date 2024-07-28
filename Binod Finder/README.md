@@ -1,0 +1,1 @@
+This Python script searches for occurrences of the term "binod" in text files within the current directory. It provides information about the presence of "binod" in each file and summarizes the total count of occurrences.
