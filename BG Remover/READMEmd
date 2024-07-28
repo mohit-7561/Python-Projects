@@ -1,1 +1,1 @@
-
+This project is designed to remove the background from an image, isolating the main subject.The script processes an input image and outputs a version with the background removed, saving it with a transparent background. 
